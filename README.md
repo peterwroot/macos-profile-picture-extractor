@@ -6,16 +6,13 @@
 
 I've grown to quite like Apple's Memoji feature, and have started using my Memoji as my profile picture on basically every website that lets you set one. 
 
-
-
-This script is a wrapper around a command provided by John Galt on the [Apple Community forums](https://discussions.apple.com/thread/8027172?sortBy=best). 
-
-
-
+This script is a wrapper around a command provided by John Galt on the [Apple Community forums](https://discussions.apple.com/thread/8027172?sortBy=best). The command extracts the current profile image from the macOS Directory Services.
 
 ## Usage
 
 Clone the repo (or just download the script file) and run it on the command line as the user you wish to extract the profile picture for. 
+
+The image will be saved as a 
 
 ## Alternatives
 
