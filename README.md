@@ -17,9 +17,7 @@ Clone the repo (or just download the script file) and run it on the command line
 
 You can also convert your Memoji to a .PNG file with a transparent background by sending yourself a Memoji sticker using iMessage. However, there are some 'poses' that are available in the macOS Memoji editor that are not available as stickers in iMessage:
 
-<img src='/images/pic10336.jpg' width='100'>
-<img src='/images/pic18403.jpg' width='100'>
-<img src='/images/pic19964.jpg' width='100'>
+<img src='/images/pic10336.jpg' width='100'><img src='/images/pic18403.jpg' width='100'><img src='/images/pic19964.jpg' width='100'>
 
 
 
