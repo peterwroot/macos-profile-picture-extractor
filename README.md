@@ -1,0 +1,1 @@
+# macos-profile-picture-extractor
