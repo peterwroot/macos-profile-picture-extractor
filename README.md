@@ -14,6 +14,8 @@ Clone the repo (or just download the script file) and run it on the command line
 
 The image will be saved as a .JPG file in the working directory, with a random file name, so you can run the script repeatedly after making changes to your macOS profile picture - such as changing the background colour like in the banner above. 
 
+<img src='/images/background-colours.png' width='450'>
+
 ## Quirks
 
 I have noticed a few quirks that appear to be related to how macOS Directory Services saves your profile picture:
@@ -21,6 +23,12 @@ I have noticed a few quirks that appear to be related to how macOS Directory Ser
 * Sometimes the image will be malformatted. This seems to occur when you run the command immediately after setting saving your profile picture. This resulted in images that would open in Preview, but not VS Code.
 
 * Image size is inconsistent. Sometimes the command outputs 840x840 images, and sometimes 420x240 images.
+
+## Background Removal
+
+Unfortunately, one limitation of this method is that there is no method to obtain an image with a transparent background. 
+
+I have had success using [remove.bg](https://www.remove.bg/). The light-grey 
 
 ## Alternatives
 
