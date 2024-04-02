@@ -10,7 +10,7 @@ This script is a wrapper around a command provided by John Galt on the [Apple Co
 
 ## Usage
 
-Clone the repo (or just download the script file) and run it on the command line as the user you wish to extract the profile picture for. 
+Clone the repo and run macos-profile-picture-extractor.sh on the command line. 
 
 The image will be saved as a .JPG file in the working directory, with a random file name, so you can run the script repeatedly after making changes to your macOS profile picture - such as changing the background colour like in the banner above. 
 
@@ -28,7 +28,9 @@ I have noticed a few quirks that appear to be related to how macOS Directory Ser
 
 Unfortunately, one limitation of this method is that there is no method to obtain an image with a transparent background. 
 
-I have had success using [remove.bg](https://www.remove.bg/). The light-grey 
+I have had success using [remove.bg](https://www.remove.bg/). The light-grey 'Style' option seems to work best for this.
+
+<img src='/images/memoji-00000.png' width='300'>
 
 ## Alternatives
 
