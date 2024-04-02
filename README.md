@@ -12,7 +12,15 @@ This script is a wrapper around a command provided by John Galt on the [Apple Co
 
 Clone the repo (or just download the script file) and run it on the command line as the user you wish to extract the profile picture for. 
 
-The image will be saved as a 
+The image will be saved as a .JPG file in the working directory, with a random file name, so you can run the script repeatedly after making changes to your macOS profile picture - such as changing the background colour like in the banner above. 
+
+## Quirks
+
+I have noticed a few quirks that appear to be related to how macOS Directory Services saves your profile picture:
+
+* Sometimes the image will be malformatted. This seems to occur when you run the command immediately after setting saving your profile picture. This resulted in images that would open in Preview, but not VS Code.
+
+* Image size is inconsistent. Sometimes the command outputs 840x840 images, and sometimes 420x240 images.
 
 ## Alternatives
 
