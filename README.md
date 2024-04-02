@@ -1,6 +1,6 @@
 # macOS Profile Picture Extractor
 
-<img src='/images/banner/memoji-00001.png' width='25'><img src='/images/banner/memoji-00002.png' width='25'><img src='/images/banner/memoji-00003.png' width='25'><img src='/images/banner/memoji-00004.png' width='25'><img src='/images/banner/memoji-00005.png' width='25'><img src='/images/banner/memoji-00006.png' width='25'><img src='/images/banner/memoji-00007.png' width='25'><img src='/images/banner/memoji-00008.png' width='25'><img src='/images/banner/memoji-00009.png' width='25'>
+<img src='/images/banner/memoji-00001.png' width='75'><img src='/images/banner/memoji-00002.png' width='75'><img src='/images/banner/memoji-00003.png' width='75'><img src='/images/banner/memoji-00004.png' width='75'><img src='/images/banner/memoji-00005.png' width='75'><img src='/images/banner/memoji-00006.png' width='75'><img src='/images/banner/memoji-00007.png' width='75'><img src='/images/banner/memoji-00008.png' width='75'><img src='/images/banner/memoji-00009.png' width='75'>
 
 
 
