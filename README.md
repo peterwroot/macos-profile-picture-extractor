@@ -4,6 +4,8 @@
 
 I've grown to quite like Apple's Memoji feature, and have started using my Memoji as my profile picture on basically every website that lets you set one. 
 
+Apple does not provide a straightforward way to export your Memoji as an image, however you can set your macOS profile picture to a Memoji and then export that as an image.
+
 This script is a wrapper around a command provided by John Galt on the [Apple Community forums](https://discussions.apple.com/thread/8027172?sortBy=best). The command extracts the current profile image from the macOS Directory Services.
 
 ## Usage
