@@ -2,8 +2,6 @@
 
 <img src='/images/banner/memoji-00001.png' width='75'><img src='/images/banner/memoji-00002.png' width='75'><img src='/images/banner/memoji-00003.png' width='75'><img src='/images/banner/memoji-00004.png' width='75'><img src='/images/banner/memoji-00005.png' width='75'><img src='/images/banner/memoji-00006.png' width='75'><img src='/images/banner/memoji-00007.png' width='75'><img src='/images/banner/memoji-00008.png' width='75'><img src='/images/banner/memoji-00009.png' width='75'>
 
-
-
 I've grown to quite like Apple's Memoji feature, and have started using my Memoji as my profile picture on basically every website that lets you set one. 
 
 This script is a wrapper around a command provided by John Galt on the [Apple Community forums](https://discussions.apple.com/thread/8027172?sortBy=best). The command extracts the current profile image from the macOS Directory Services.
@@ -30,7 +28,7 @@ Unfortunately, one limitation of this method is that there is no method to obtai
 
 I have had success using [remove.bg](https://www.remove.bg/). The light-grey 'Style' option seems to work best for this.
 
-<img src='/images/memoji-00000.png' width='300'>
+<img src='/images/memoji-light-grey.png' width='300'><img src='/images/memoji-transparent.png' width='300'>
 
 ## Alternatives
 
