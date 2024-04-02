@@ -26,7 +26,7 @@ I have noticed a few quirks that appear to be related to how macOS Directory Ser
 
 ## Background Removal
 
-Unfortunately, one limitation of this method is that there is no method to obtain an image with a transparent background. 
+Unfortunately, one limitation of this method is that there is no way to obtain an image with a transparent background. 
 
 I have had success using [remove.bg](https://www.remove.bg/). The light-grey 'Style' option seems to work best for this.
 
